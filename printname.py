@@ -1,4 +1,4 @@
-myname = "Stephen"
+myname = "Stephen J"
 print("My name is " + myname)
 print("Hello "+myname)
 print("Ok signing off now " +myname)
